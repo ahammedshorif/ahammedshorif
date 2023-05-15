@@ -1,4 +1,4 @@
-</img src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90">
+<img src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90">
 <h1 align="center">Hi 👋, I'm Ahammmed Shorif</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
